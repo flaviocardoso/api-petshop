@@ -1,0 +1,11 @@
+{
+    "mysql": {
+        "database": "petshop",
+        "user": "root",
+        "password": "flaviocardoso",
+        "host": "meu_mysql"
+    },
+    "api": {
+        "port": 3000
+    }
+}
